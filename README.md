@@ -28,13 +28,14 @@ Git&emsp;Github&emsp;Data Science&emsp;Matlab and Statistics
 - Student Information Systems
 
 # My User Manual
-If you're curious to learn a little more about me, feel free to check out my personal user manual!
+If you're curious to learn more about me, please check out my personal user manual!
 <img src="https://github.com/user-attachments/assets/e6cf6caa-4286-45f9-966e-0c1928e17a28" width=75% height=75%>
 
 # I’m currently working on ...
-I am passionate about data and statistics, and I have chosen to enhance my Data Science and Analysis skills to embrace new challenges in emerging technology. I am finishing a boot camp in data science, and since I have a passion for football video games, utilizing my newly acquired skills, I have started a Python project to gather and forecast player prices in the online game market. 
-I want to implement solutions to automate game snapshots, harness AI for image recognition, and examine price trends.
+I am enthusiastic about data and statistics, so I joined a boot camp to improve my data science and analysis skills. I am ready to accept new challenges in emerging technology.
+Since I am passionate about football video games, I have started a Python project that uses my newly acquired skills to gather and forecast player prices in the online game market. 
+I aim to create a solution that automates game screenshots, utilizes AI for image recognition, and analyzes price trends.
 
 # Contact 📬
-For any inquiries, feedback, or collaboration opportunities, please feel free to reach out to me through my [email](maurizio_borrelli@yahoo.it) or [LinkedIn](https://www.linkedin.com/in/mauborrelli/).
+If you have any inquiries or feedback, please feel free to contact me through my [email](maurizio_borrelli@yahoo.it) or [LinkedIn](https://www.linkedin.com/in/mauborrelli/).
 
