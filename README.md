@@ -1,8 +1,5 @@
-## Hi there 👋
-
 # Maurizio's Personal Portfolio
 
-![Maurizio's Personal Portfolio]
 
 This personal portfolio website boasts a fully responsive, application-like design that seamlessly adapts to all devices. 📱 💻
 
