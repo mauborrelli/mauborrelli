@@ -37,5 +37,4 @@ Since I am passionate about football video games, I have started a Python projec
 I aim to create a solution that automates game screenshots, utilizes AI for image recognition, and analyzes price trends.
 
 # Contact 📬
-If you have any inquiries or feedback, please feel free to contact me through my [email](maurizio_borrelli@yahoo.it) or [LinkedIn](https://www.linkedin.com/in/mauborrelli/).
-
+If you have any inquiries or feedback, please feel free to contact me through my [email](mailto:maurizio_borrelli@yahoo.it) or [LinkedIn](https://www.linkedin.com/in/mauborrelli/).
