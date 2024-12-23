@@ -9,19 +9,11 @@ I am a committed Lean Delivery Manager with over 15 years of experience steering
 
 Including, but not limited to, the following:
 
-- Agile
-- Scrum
-- Scaled Agile
-- Kanban
-- DevOps
-- SQL
-- C/C++
-- Python
-- Visual Studio Code
-- Git
-- Github
-- Data Science
-- Matlab and Statistics
+Agile&emsp;Scrum&emsp;Scaled Agile&emsp;Kanban&emsp;DevOps
+
+SQL&emsp;C/C++&emsp;Python&emsp;Visual Studio Code
+
+Git&emsp;Github&emsp;Data Science&emsp;Matlab and Statistics
 
 # Projects I have worked on
 - Air Cooler Heat Exchanger Systems
