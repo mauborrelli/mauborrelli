@@ -1,7 +1,10 @@
-# Maurizio's Personal Portfolio
 
+![MBLean](https://github.com/user-attachments/assets/8c31c73a-5201-4e03-bd89-768ea08a8dc1)
 
-This personal portfolio website boasts a fully responsive, application-like design that seamlessly adapts to all devices. 📱 💻
+Hi there, I'm Maurizio. Welcome to my GitHub!
+
+I am a committed Lean Delivery Manager with over 15 years of experience steering exciting technology software projects across large organizations and innovative startups in sectors like FinTech, Finance, Education, IT, railways, and aerospace. My international experience, spanning the UK, China, Germany, France, and Italy, has enriched my career and improved my adaptability in the ever-evolving tech landscape. With over a decade of experience in adopting and implementing Agile Software Development, I embody the values and principles of Agile as a proactive advocate, fostering the mindset, practices, and culture necessary for leading complex global teams of 50 to 100 members. I am dedicated to boosting business agility by building and nurturing high-performing teams to meet demanding timelines, scopes, and product roadmaps.
+
 
 # Features 🚀
 
